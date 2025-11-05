@@ -55,10 +55,10 @@ A secure tool for generating strong, customizable passwords with instant copy fu
 *Bachelor of Technology in Computer Science Engineering (2023–2027)*
 CGPA: **7.97 (Till 5th Semester)**
 
-**Sant Shri Asharamji Gurukul Sr. Sec. School, Chhindwara**
+**Sunrays Public School, Chhindwara**
 Class 12th (MP Board): **92.4%**
 
-**Sunrays Public School, Chhindwara**
+**Sant Shri Asharamji Gurukul Sr. Sec. School, Chhindwara**
 Class 10th (CBSE): **81.8%**
 
 ---
