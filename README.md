@@ -41,14 +41,6 @@ An interactive and clean food ordering interface developed with **HTML**, **CSS*
 **Tech Stack:** HTML, CSS, JavaScript
 🔗 [View Project](#)
 
-### 🔐 Random Password Generator
-
-A secure tool for generating strong, customizable passwords with instant copy functionality.
-**Tech Stack:** HTML, CSS, JavaScript
-🔗 [View Project](#)
-
----
-
 ## 🏫 Education
 
 **Technocrats Institute Of Technology, Bhopal**
